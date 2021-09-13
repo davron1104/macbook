@@ -1,0 +1,111 @@
+*,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul {
+  padding: 0;
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+a,
+a:hover {
+  text-decoration: none;
+}
+.navbar img {
+  width: 25px;
+}
+
+.navbar .nav-link {
+  color: #fff !important;
+}
+
+.navbar .form-control {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.navbar .btn-info {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+h2 {
+  font-size: 35px;
+  margin: 15px 0;
+}
+.carousel-indicators li {
+  width: 12px;
+  height: 12px;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  background: none;
+  opacity: 1;
+}
+.carousel-indicators .active {
+  background: #fff;
+}
+
+.section {
+  margin-top: 40px;
+}
+.section p {
+  margin-bottom: 15px;
+}
+.card {
+  background: #f5f5f5;
+}
+.section .row {
+  text-align: center;
+  margin-bottom: 30px;
+}
+.section p {
+  text-align: left;
+}
+.section img {
+  padding: 15px;
+}
+.pagination {
+  display: flex;
+  justify-content: center;
+  margin: 50px 0 30px;
+}
+.page-link:hover {
+  background: #337ab7 !important;
+  color: #fff !important;
+}
+footer {
+  background: #222222;
+  text-align: center;
+  padding-bottom: 20px;
+
+}
+
+footer p {
+  padding: 15px 0 15px;
+  color: #fff;
+}
+footer i {
+  width: 25px;
+  height: 25px;
+  background: #0000ff;
+  color: #fff;
+  border-radius: 3px;
+}
+.fa-twitter:before{
+  line-height: 25px;
+} 
+.fa-facebook:before{
+  line-height: 25px;
+} 
+.fa-vk:before{
+  line-height: 25px;
+} 
+.fa-instagram:before{
+  line-height: 25px;
+} 
